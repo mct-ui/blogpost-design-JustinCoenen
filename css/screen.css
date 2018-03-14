@@ -269,6 +269,8 @@ a:focus {
 
 .c-article__data {
     margin-bottom: 8px;
+    font-size: 14px;
+    line-height: 16px;
 }
 
 .c-article__body {
